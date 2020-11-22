@@ -1,0 +1,26 @@
+.shadow {
+  box-shadow: -1px 3px 15px -1px rgba(0, 0, 0, 0.36);
+}
+
+.btn {
+  border-radius: 0;
+}
+
+.btn.disabled {
+  background: #e5e5e5;
+}
+
+.card {
+  border: 0;
+  background: transparent;
+}
+
+.card-header {
+  background: transparent;
+  text-transform: uppercase;
+  border: none;
+}
+
+ul {
+  padding-left: 20px;
+}
